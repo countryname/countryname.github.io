@@ -1,1 +1,1 @@
-# countryshiritori.github.io
+# countryname.github.io
